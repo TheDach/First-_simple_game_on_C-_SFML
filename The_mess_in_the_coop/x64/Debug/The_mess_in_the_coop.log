@@ -1,0 +1,4 @@
+﻿  Egg.cpp
+C:\Users\Vlad\Desktop\ТУСУР\Предметы\2 курс\1 семестр\ООП\The_mess_in_the_coop\The_mess_in_the_coop\Egg.cpp(83,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Vlad\Desktop\ТУСУР\Предметы\2 курс\1 семестр\ООП\The_mess_in_the_coop\The_mess_in_the_coop\Egg.cpp(111,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  The_mess_in_the_coop.vcxproj -> C:\Users\Vlad\Desktop\ТУСУР\Предметы\2 курс\1 семестр\ООП\The_mess_in_the_coop\The_mess_in_the_coop\x64\Debug\The_mess_in_the_coop.exe
